@@ -1,0 +1,29 @@
+article {
+	width: 680px;
+	margin: 0 auto;
+	font-size: 1rem;
+}
+
+article h1 {
+	font-size: 2.5em; /* 40 / 16 = 2.5 */
+}
+
+article h2 {
+	font-size: 2.25em; /* 36 / 16 = 2.25 */
+}
+
+article h3 {
+	font-size: 2em; /* 32 / 16 = 2 */
+}
+
+article h4 {
+	font-size: 1.75em; /* 28 / 16 = 1.75 */
+}
+
+article h5 {
+	font-size: 1.5em; /* 24 / 16 = 1.5 */
+}
+
+article h6 {
+	font-size: 1.25em; /* 20 / 16 = 1.25 */
+}

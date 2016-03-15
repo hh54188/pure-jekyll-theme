@@ -1,0 +1,8 @@
+.logo {
+	text-indent: -9999px;
+	
+	width: 200px;
+	height: 100px;
+
+	margin: 0 auto; /* 待定，margin-bottom有待商榷 */
+}
